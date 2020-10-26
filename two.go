@@ -2,6 +2,6 @@ package one
 import (
 	"fmt"
 )
-func pout(){
+func Pout(){
 	fmt.Println("congritulations")
 }
