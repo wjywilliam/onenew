@@ -1,8 +1,7 @@
 package one
 import (
-	"github.com/wjywilliam/onenew/blob/main/golang"
 	"fmt"
 )
-func main(){
-	
+func pout(){
+	fmt.Println("congritulations")
 }
